@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![UBC pic](https://user-images.githubusercontent.com/65369888/167653882-80d450c8-e5ce-45f9-ab38-3807dfa8494e.jpg)
+
 <!--
 **AndreHernandezRivera/AndreHernandezRivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
