@@ -1,4 +1,4 @@
-### I'm a creative and enthusiastic data analyst, with a particular interest in applying new technologies to understand natural resources. 
+# I'm a creative and enthusiastic data analyst, with a particular interest in applying new technologies to understand natural resources. 
 
 ## Looking at data, and seeing what stories can emerge is my core passion as a data analyst, especially when exploring data from other domains. 
 
