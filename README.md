@@ -1,4 +1,4 @@
-## I'm a creative data analyst with a passion for understanding and solving problems through the use of data. 
+## I'm passionate about applying AI to drive analytics and business insights. 
 
 I've built web applications using Python and Javascript, setup and hosted SQL databases, and built several kinds of dashboards and visualizations. I'm always looking to improve my skillset by leverging new technologies.
 
